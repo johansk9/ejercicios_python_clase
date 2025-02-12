@@ -1,4 +1,3 @@
-# Definir las variables
 nombre = "Johan"  
 edad = 21        
 ciudad = "Madrid"  
